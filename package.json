@@ -1,0 +1,42 @@
+{
+	"name": "shipharbor",
+	"version": "1.0.0",
+	"description": "Small isomorphic router",
+	"license": "MIT",
+	"repository": "herber/shipharbor",
+	"author": {
+		"name": "Tobias Herber",
+		"email": "tobihrbr@gmail.com",
+		"url": "tobihrbr.com"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "formatted && jest"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"router",
+		"route",
+		"isomorphic"
+	],
+	"dependencies": {
+		"matchit": "^1.0.5"
+	},
+	"devDependencies": {
+		"codecov": "^3.0.0",
+		"formatted": "^1.0.0",
+		"jest": "^22.4.3"
+	},
+	"jest": {
+		"collectCoverage": true,
+		"coverageDirectory": "./coverage",
+		"coverageReporters": [
+			"lcov",
+			"text"
+		]
+	}
+}
