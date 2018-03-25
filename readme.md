@@ -1,6 +1,12 @@
-# shipharbor [![Build Status](https://travis-ci.org/herber/shipharbor.svg?branch=master)](https://travis-ci.org/herber/shipharbor)
+<h1 align="center">Shipharbor<h1>
 
-> Small isomorphic router
+<p align="center">🚢🌊 Shipharbor is a tiny router, that runs in browsers and in nodejs.</p>
+
+<p align="center">
+  <a href="https://travis-ci.org/herber/shipharbor">
+    <img src="https://travis-ci.org/herber/shipharbor.svg?branch=master" alt="Build Status">
+  </a>
+</p>
 
 ## Install
 
