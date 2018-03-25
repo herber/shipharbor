@@ -1,4 +1,4 @@
-<h1 align="center">Shipharbor<h1>
+<h1 align="center">Shipharbor</h1>
 
 <p align="center">🚢🌊 Shipharbor is a tiny router, that runs in browsers and in nodejs.</p>
 
