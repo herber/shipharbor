@@ -6,6 +6,10 @@
   <a href="https://travis-ci.org/herber/shipharbor">
     <img src="https://travis-ci.org/herber/shipharbor.svg?branch=master" alt="Build Status">
   </a>
+
+  <a href="https://codecov.io/gh/herber/shipharbor">
+    <img src="https://codecov.io/gh/herber/shipharbor/branch/master/graph/badge.svg" />
+  </a>
 </p>
 
 ## Install
