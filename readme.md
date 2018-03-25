@@ -75,7 +75,7 @@ The handler function for a specific path.
 
 #### match(path)
 
-Return: `object|boolean`;
+Returns: `object|boolean`;
 
 ##### path
 
