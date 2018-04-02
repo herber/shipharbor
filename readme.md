@@ -40,7 +40,7 @@ router.match('/').handler();
 // > Home
 
 const match = router.match('/user/my-user');
-m.handler(m.params);
+match.handler(match.params);
 // > User: my-user
 
 router.match('/whatever').handler();
