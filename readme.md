@@ -32,7 +32,7 @@ router.add('/user/:id', (params) => {
   console.log('> User: ' + params.id);
 });
 
-router.add('/*', (params) => {
+router.add('/*', () => {
   console.log('> Not found');
 });
 
